@@ -33,3 +33,4 @@ export const deleteImageCard = async (req: Request, res: Response) => {
   });
   res.json(deleted);
 };
+
